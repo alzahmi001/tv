@@ -1,15 +1,15 @@
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/23/1689208654.jpg" group-title="Lokal",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1613940985~acl=/hls-b/ingest_204_*/*~hmac=3356a2c5ce26ec2a9768a65c2425dbcee2c19a293698f21313ba211c0a0396d1/hls-b/ingest_204_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1613940985~acl=/hls-b/ingest_204_*/*~hmac=3356a2c5ce26ec2a9768a65c2425dbcee2c19a293698f21313ba211c0a0396d1/hls-b/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="Lokal",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1613940965~acl=/hls-b/ingest_665_*/*~hmac=f45c83c657337aad2fa03a24f37c36297787f8cd7c0ed7d7bb6d3f3073986671/hls-b/ingest_665_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1613940965~acl=/hls-b/ingest_665_*/*~hmac=f45c83c657337aad2fa03a24f37c36297787f8cd7c0ed7d7bb6d3f3073986671/hls-b/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="Lokal",MNCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1613940935~acl=/hls-p/ingest_870_*/*~hmac=bbd181f6dbadb59d1482a207f220c1f878a16d6ec62e4b606508a7971c67dfbb/hls-p/ingest_870_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1613940935~acl=/hls-p/ingest_870_*/*~hmac=bbd181f6dbadb59d1482a207f220c1f878a16d6ec62e4b606508a7971c67dfbb/hls-p/ingest_870_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/gtv.png" group-title="Lokal",GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1613940935~acl=/hls-p/ingest_778_*/*~hmac=69e8a0a2f5c0bc294af89e1fd26719ea3abdbb9eb1b135276666dc460056c308/hls-p/ingest_778_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1613940935~acl=/hls-p/ingest_778_*/*~hmac=69e8a0a2f5c0bc294af89e1fd26719ea3abdbb9eb1b135276666dc460056c308/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/inews.png" group-title="Lokal",iNews
-https://etslive-2-vidio-com.akamaized.net/exp=1613941127~acl=/hls-p/ingest_5409_*/*~hmac=5fc5c7d3a901c6c55591db2dfe74a63944f0175dfa031bc54e5cce5da9b97745/hls-p/ingest_5409_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1613941127~acl=/hls-p/ingest_5409_*/*~hmac=5fc5c7d3a901c6c55591db2dfe74a63944f0175dfa031bc54e5cce5da9b97745/hls-p/ingest_5409_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mytv.png" group-title="Lokal",MYTV
-https://etslive-2-vidio-com.akamaized.net/exp=1613941022~acl=/hls-p/ingest_6711_*/*~hmac=0fa201727d117aa3177b2997777a5d98593791d11c61507df7d69925315d6dc1/hls-p/ingest_6711_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1613941022~acl=/hls-p/ingest_6711_*/*~hmac=0fa201727d117aa3177b2997777a5d98593791d11c61507df7d69925315d6dc1/hls-p/ingest_6711_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://apkshelf.com/wp-content/uploads/2021/01/MKCTV-Apk-1200x1200.png" group-title="Lokal", hilya
 https://cdn08jtedge.useetv.com/joss/15/useeinfo/chunklist_w1746703496_b1344100_sleng.m3u8?enc=sCv8tU-DRfEzlQETnkRqPw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613937007
 #EXTINF:-1 tvg-logo="https://apkshelf.com/wp-content/uploads/2021/01/MKCTV-Apk-1200x1200.png" group-title="Lokal", 11 Gratis
