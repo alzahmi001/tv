@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/23/1689208654.jpg" group-title="Lokal",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1613940985~acl=/hls-b/ingest_204_*/*~hmac=3356a2c5ce26ec2a9768a65c2425dbcee2c19a293698f21313ba211c0a0396d1/hls-b/ingest_204_720p/index.m3u8
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="Lokal",RCTI
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/svg/logo-RCTI.svg" group-title="Lokal",RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1613940965~acl=/hls-b/ingest_665_*/*~hmac=f45c83c657337aad2fa03a24f37c36297787f8cd7c0ed7d7bb6d3f3073986671/hls-b/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="Lokal",MNCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1613940935~acl=/hls-p/ingest_870_*/*~hmac=bbd181f6dbadb59d1482a207f220c1f878a16d6ec62e4b606508a7971c67dfbb/hls-p/ingest_870_720p/index.m3u8
