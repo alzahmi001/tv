@@ -4,6 +4,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1613940985~acl=/hls-b/ingest_204_*
 https://etslive-2-vidio-com.akamaized.net/exp=1613940965~acl=/hls-b/ingest_665_*/*~hmac=f45c83c657337aad2fa03a24f37c36297787f8cd7c0ed7d7bb6d3f3073986671/hls-b/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="Lokal",MNCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1613940935~acl=/hls-p/ingest_870_*/*~hmac=bbd181f6dbadb59d1482a207f220c1f878a16d6ec62e4b606508a7971c67dfbb/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="Lokal", ANTV
+https://gratismkctv.net/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/gtv.png" group-title="Lokal",GTV
 https://etslive-2-vidio-com.akamaized.net/exp=1613940935~acl=/hls-p/ingest_778_*/*~hmac=69e8a0a2f5c0bc294af89e1fd26719ea3abdbb9eb1b135276666dc460056c308/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/inews.png" group-title="Lokal",iNews
@@ -26,8 +28,6 @@ https://cdn08jtedge.useetv.com/joss/15/sctv/chunklist_w1706328104_b1344100_sleng
 https://cdn08jtedge.useetv.com/joss/15/trans7/chunklist_w798242617_b1344100_sleng.m3u8?enc=Y1maFHmVQutuUIgWyPXcsA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613937019
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="Lokal", TransTV
 https://cdn08jtedge.useetv.com/joss/15/transtv/chunklist_w1433139189_b1344100_sleng.m3u8?enc=P5Pp1heJwr-VJJ8imOJ1wg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613937021
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="Lokal", ANTV
-https://gratismkctv.net/oxygen.m3u8?channel=antv
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="Lokal", TVOne
 https://gratismkctv.net/oxygen.m3u8?channel=tvone
