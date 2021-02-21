@@ -1,13 +1,3 @@
-#EXTINF:-1 tvg-logo="https://apkshelf.com/wp-content/uploads/2021/01/MKCTV-Apk-1200x1200.png" group-title="Lokal", Dilarang Diperjual Belikan Dan Komersil
-https://cdn08jtedge.useetv.com/joss/15/useeinfo/chunklist_w1746703496_b1344100_sleng.m3u8?enc=sCv8tU-DRfEzlQETnkRqPw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613937007
-#EXTINF:-1 tvg-logo="https://apkshelf.com/wp-content/uploads/2021/01/MKCTV-Apk-1200x1200.png" group-title="Lokal", Playlist Ini Di Bagikan Secara Gratis
-https://cdn08jtedge.useetv.com/joss/15/useephoto/chunklist_w569367479_b1344100_sleng.m3u8?enc=49GBuhEJrJLlGbm3W8oxKA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613938934
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="Lokal", UseePrime
-https://cdn08jtedge.useetv.com/joss/15/useeprime/chunklist_w1514175408_b894100_sleng.m3u8?enc=_dm93h0gdhNoqUyRA01nNA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613937011
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvri.png" group-title="Lokal", TVRI
-https://cdn08jtedge.useetv.com/joss/15/tvri/chunklist_w97596913_b684100_sleng.m3u8?enc=FviMSWCtKkudl23vs4qPeg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613938937
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png" group-title="Lokal", Indosiar
-https://cdn08jtedge.useetv.com/joss/15/indosiar/chunklist_w390564006_b684100_sleng.m3u8?enc=Vu29ufkcn799ArEIQQn-eg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613937013
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/23/1689208654.jpg" group-title="Lokal",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1613940985~acl=/hls-b/ingest_204_*/*~hmac=3356a2c5ce26ec2a9768a65c2425dbcee2c19a293698f21313ba211c0a0396d1/hls-b/ingest_204_480p/index.m3u8
 
@@ -25,6 +15,17 @@ https://etslive-2-vidio-com.akamaized.net/exp=1613941127~acl=/hls-p/ingest_5409_
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mytv.png" group-title="Lokal",MYTV
 https://etslive-2-vidio-com.akamaized.net/exp=1613941022~acl=/hls-p/ingest_6711_*/*~hmac=0fa201727d117aa3177b2997777a5d98593791d11c61507df7d69925315d6dc1/hls-p/ingest_6711_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://apkshelf.com/wp-content/uploads/2021/01/MKCTV-Apk-1200x1200.png" group-title="Lokal", hilya
+https://cdn08jtedge.useetv.com/joss/15/useeinfo/chunklist_w1746703496_b1344100_sleng.m3u8?enc=sCv8tU-DRfEzlQETnkRqPw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613937007
+#EXTINF:-1 tvg-logo="https://apkshelf.com/wp-content/uploads/2021/01/MKCTV-Apk-1200x1200.png" group-title="Lokal", 11 Gratis
+https://cdn08jtedge.useetv.com/joss/15/useephoto/chunklist_w569367479_b1344100_sleng.m3u8?enc=49GBuhEJrJLlGbm3W8oxKA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613938934
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="Lokal", UseePrime
+https://cdn08jtedge.useetv.com/joss/15/useeprime/chunklist_w1514175408_b894100_sleng.m3u8?enc=_dm93h0gdhNoqUyRA01nNA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613937011
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvri.png" group-title="Lokal", TVRI
+https://cdn08jtedge.useetv.com/joss/15/tvri/chunklist_w97596913_b684100_sleng.m3u8?enc=FviMSWCtKkudl23vs4qPeg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613938937
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png" group-title="Lokal", Indosiar
+https://cdn08jtedge.useetv.com/joss/15/indosiar/chunklist_w390564006_b684100_sleng.m3u8?enc=Vu29ufkcn799ArEIQQn-eg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613937013
 
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sctv.png" group-title="Lokal", SCTV Usee
