@@ -4,7 +4,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1613937412~acl=/hls-p/ingest_6852_
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sctv.png" group-title="VIDIO",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1613937524~acl=/hls-p/ingest_204_*/*~hmac=6cb2b9ed83427ee3ce23cdcda58f23172b7c81faf140e3125f07eac7cee01c2f/hls-p/ingest_204_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="VIDIO",RCTI
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="VIDIO",RCTI
 https://etslive-2-vidio-com.akamaized.net/exp=1613937566~acl=/hls-p/ingest_665_*/*~hmac=1e642f31795e24f8ff61af7d3ab1313128e84a6e558c1f19a87d3271ca2caaa9/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="VIDIO",MNCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1613937594~acl=/hls-p/ingest_870_*/*~hmac=4fbb440ac957eec49259af7bc11bf32b21fd1c6cddeff9a9ce6412a32aeee743/hls-p/ingest_870_720p/index.m3u8
