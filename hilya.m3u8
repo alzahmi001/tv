@@ -1,16 +1,16 @@
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="Lokal", NHK
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"[CODAY] Indosiar _VIDIO" group-title="GROUP_VIDIO",Indosiar _VIDIO
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"[CODAY] Indosiar" group-title="GROUP_VIDIO",Indosiar
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4GJ-iEb0yjB6PlyNKbzIuX6Z2yw=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/f05e3e.jpg" tvg-id="RIYAN.0dadc3b9d438dea8e70ef6c70bab1e54.SHINTA" tvg-name"[CODAY] MNC _VIDIO" group-title="GROUP_VIDIO",MNC _VIDIO
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mnctv.png" tvg-id="RIYAN.0dadc3b9d438dea8e70ef6c70bab1e54.SHINTA" tvg-name"[CODAY] MNC" group-title="GROUP_VIDIO",MNC
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" tvg-id="RIYAN.a02eb37791ec81965c12904bc9e6537a.SHINTA" tvg-name"[CODAY] RCTI _VIDIO" group-title="GROUP_VIDIO",RCTI _VIDIO
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" tvg-id="RIYAN.a02eb37791ec81965c12904bc9e6537a.SHINTA" tvg-name"[CODAY] RCTI" group-title="GROUP_VIDIO",RCTI
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qP4ACF-N0i-Oh1GyPZ6wUuWRzvM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/41be2c.jpg" tvg-id="RIYAN.c813873288ba93ef6fa30281b24e0b7e.SHINTA" tvg-name"[CODAY] GTV _VIDIO" group-title="GROUP_VIDIO",GTV _VIDIO
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" tvg-id="RIYAN.c813873288ba93ef6fa30281b24e0b7e.SHINTA" tvg-name"[CODAY] GTV" group-title="GROUP_VIDIO",GTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" tvg-id="RIYAN.39c24f86af15e8e8c05dda48fca7eb01.SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="GROUP_VIDIO",SCTV _VIDIO
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" tvg-id="RIYAN.39c24f86af15e8e8c05dda48fca7eb01.SHINTA" tvg-name"[CODAY] SCTV" group-title="GROUP_VIDIO",SCTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LveTiruIzIi7xfIe0bp6BH097SY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/5ed6aa.png" tvg-id="RIYAN.13dea3c05f330ef668973ce51371efec.SHINTA" tvg-name"[CODAY] Kompas TV _VIDIO" group-title="GROUP_VIDIO",Kompas TV _VIDIO
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" tvg-id="RIYAN.13dea3c05f330ef668973ce51371efec.SHINTA" tvg-name"[CODAY] Kompas" group-title="GROUP_VIDIO",Kompas
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZMhxlBLkvFjPT9JwTJDQDP03hGo=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/1cfec2.png" tvg-id="RIYAN.cd207a1f9aed0cb00cc1eb1dc9035ae7.SHINTA" tvg-name"[CODAY] BeritaSatu _VIDIO" group-title="GROUP_VIDIO",BeritaSatu _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
