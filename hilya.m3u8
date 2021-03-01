@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="Lokal", NHK
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="Lokal", RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"[CODAY] Indosiar" group-title="GROUP_VIDIO",Indosiar
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mnctv.png" tvg-id="RIYAN.0dadc3b9d438dea8e70ef6c70bab1e54.SHINTA" tvg-name"[CODAY] MNC" group-title="GROUP_VIDIO",MNC
