@@ -349,8 +349,8 @@ https://cdn10jtedge.useetv.com/joss/15/dreamworks/chunklist_w66321997_b1344100_s
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png" group-title="Knowledge", National Geographic
-https://cdngb196.useetv.com/joss/15/natgeo/chunklist_w824714784_b1344100_sleng.m3u8?enc=5YgL1hfWRVP4YblkBtue4g&uid=MDQzMjI2NWFlM2VkM2JhZTNmNTg4NmM3NWZkY2VkMTI=&exp=1614776328
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png" group-title="Knowledge", National Geographic Vietnam
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_big.png" group-title="Knowledge", Nat Geo People
 https://cdngb196.useetv.com/joss/15/natgeopeople/chunklist_w504580740_b1344100_sleng.m3u8?enc=oyeVpxbBelM27_lMtlN_pA&uid=MDQzMjI2NWFlM2VkM2JhZTNmNTg4NmM3NWZkY2VkMTI=&exp=1614776330
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_big.png" group-title="Knowledge", Nat Geo Wild
