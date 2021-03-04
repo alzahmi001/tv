@@ -32,7 +32,8 @@ http://210.210.155.35/qwr9ew/s/s14/01.m3u8
 http://210.210.155.35/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", CGTN
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", NHK
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", BEIN EXTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"[CODAY] Indosiar" group-title="GROUP_VIDIO",Indosiar
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
