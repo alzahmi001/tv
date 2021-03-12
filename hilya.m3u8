@@ -397,16 +397,16 @@ https://cdn10jtedge.useetv.com/joss/15/dreamworks/chunklist_w66321997_b1344100_s
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png" group-title="Knowledge", National Geographic Vietnam
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png" group-title="11", National Geographic Vietnam
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_big.png" group-title="Knowledge", Nat Geo People
 https://cdngb196.useetv.com/joss/15/natgeopeople/chunklist_w504580740_b1344100_sleng.m3u8?enc=oyeVpxbBelM27_lMtlN_pA&uid=MDQzMjI2NWFlM2VkM2JhZTNmNTg4NmM3NWZkY2VkMTI=&exp=1614776330
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_big.png" group-title="Knowledge", Nat Geo Wild
-https://cdngb196.useetv.com/joss/15/natgeowild/chunklist_w961510511_b1344100_sleng.m3u8?enc=3Mc9i2wwYon61zmM0QxtHA&uid=MDQzMjI2NWFlM2VkM2JhZTNmNTg4NmM3NWZkY2VkMTI=&exp=1614776331
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png" group-title="Knowledge", Discovery Channel
-https://cdngb196.useetv.com/joss/15/disco/chunklist_w1424718139_b1344100_sleng.m3u8?enc=AkDQdaqb25tN8x_n0fzsaA&uid=MDQzMjI2NWFlM2VkM2JhZTNmNTg4NmM3NWZkY2VkMTI=&exp=1614776333
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/crimeinvestigation.png" group-title="Knowledge", Crime Investigation
-https://cdn08jtedge.useetv.com/joss/15/crimeinvestigation/chunklist_w1031744094_b684100_sleng_kamiselaluada.m3u8?enc=gfyur5P8TTLsHzCPNGXQUg&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1614508344
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png" group-title="11", Discovery Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/crimeinvestigation.png" group-title="11", DAVINCI Kids
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtndoc.png" group-title="Knowledge", CGTN Documentary
 https://cdn08jtedge.useetv.com/joss/14/cgtndocumentary/chunklist_w473953960_b684100_sleng_kamiselaluada.m3u8?enc=OQGGWJNTDWbZ84Gac0cRkw&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1614506419
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lingua.png" group-title="Knowledge", Lingua
