@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio_ind",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="ind",URI="https://raw.githubusercontent.com/alzahmi001/tv/master/fhrcti.m3u8
