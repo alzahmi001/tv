@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NAT GEO
-https://nonton.site:8443/provision/pp/96
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", SMITHSONIAN
-https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-6550
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NHK
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", KOMPAS TV
@@ -48,8 +44,12 @@ http://210.210.155.35/qwr9ew/s/s14/01.m3u8
 http://210.210.155.35/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", CGTN
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", BEIN EXTRA
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NAT WILD
+https://nonton.site:8443/provision/pp/97
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NAT GEO
+https://nonton.site:8443/provision/pp/96
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", SMITHSONIAN
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-6550
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="FTA", RCTI
