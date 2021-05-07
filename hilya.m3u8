@@ -7,15 +7,15 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", RCTI
 https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", RCTI +
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", MNC
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", MNC +
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", GTV
 https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", GTV +
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", INDOSIAR
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", TRANSTV
