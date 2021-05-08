@@ -103,9 +103,34 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 https://nonton.site:8443/provision/pp/97
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NAT GEO
 https://nonton.site:8443/provision/pp/96
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", SMITHSONIAN
-https://home-tv.web.id/kicau/pilatkau.m3u8?channel=vidio-6550
-
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NATURAL TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT 1
+http://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT 3
+http://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT Arab
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT Avaz
+http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT Belgesel
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT Cocuk
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT EBA Ilkokul
+http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT EBA Lise
+http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT EBA Eng
+http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT Spor
+http://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRT World
+https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TV 24
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/chunklist_b2064000.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="FTA", RCTI
