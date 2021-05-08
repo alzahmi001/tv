@@ -45,6 +45,7 @@ http://210.210.155.35/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", CGTN
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NAT WILD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 https://nonton.site:8443/provision/pp/97
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NAT GEO
 https://nonton.site:8443/provision/pp/96
