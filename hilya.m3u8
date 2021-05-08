@@ -32,6 +32,8 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", NET
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", HBO 1080p
