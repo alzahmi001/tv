@@ -101,47 +101,6 @@ http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_big.png" group-title="Lokal", Ruang Trampil
-https://cdn14jtedge.useetv.com/joss/15/useeinfo/chunklist_w1568603646_b1344100_sleng.m3u8?enc=4vgu3BXqpAx3zdc0AttN-w&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614446530
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_big.png" group-title="Lokal", Usee Photo
-https://cdn14jtedge.useetv.com/joss/15/useephoto/chunklist_w621173673_b1344100_sleng.m3u8?enc=yjbWtjwnzgFRu41ITES4uA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614444609
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_big1.png" group-title="Lokal", UseePrime
-https://cdn14jtedge.useetv.com/joss/15/useeprime/chunklist_w1165181337_b894100_sleng.m3u8?enc=oqJlhBaf6pd84-B215CrYA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614444614
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_big1.png" group-title="Lokal", TVRI
-https://cdn14jtedge.useetv.com/joss/15/tvri/chunklist_w774284062_b684100_sleng.m3u8?enc=as-WdNuTNz8ZEr8pJmDQtw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614444616
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="Lokal", Indosiar
-https://cdn14jtedge.useetv.com/joss/15/indosiar/chunklist_w1403763963_b684100_sleng.m3u8?enc=rSxBIhjdZldxVBeF2fo9dA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614444616
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="Lokal",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1614448649~acl=/hls-b/ingest_204_*/*~hmac=f5dd3c38a7f7a065778cc75839086559076b22e5677efe395be3771e4d8deb84/hls-b/ingest_204_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="Lokal",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1614448554~acl=/hls-b/ingest_665_*/*~hmac=86590907318811dd0f6396f3e21ec231b7ca8d3f8b47e6fca101d1c399c1f37e/hls-b/ingest_665_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="Lokal",MNCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1614448817~acl=/hls-p/ingest_870_*/*~hmac=a631f1235e31608f7e2cd1ba491c90f750d6aab8b433df105ed22d8140907b7f/hls-p/ingest_870_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/gtv.png" group-title="Lokal",GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1614448817~acl=/hls-p/ingest_778_*/*~hmac=fe7f01afe7f1118f951d241519fc28740ee3d71d5ff544487df41fd43cf9d305/hls-p/ingest_778_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/inews.png" group-title="Lokal",iNews
-https://etslive-2-vidio-com.akamaized.net/exp=1614448812~acl=/hls-p/ingest_5409_*/*~hmac=9205211f536057063b00288a29213186346b6170223f6e58407eb0673ac9b479/hls-p/ingest_5409_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mytv.png" group-title="Lokal",MYTV
-https://etslive-2-vidio-com.akamaized.net/exp=1614448818~acl=/hls-p/ingest_6711_*/*~hmac=6c1545caad9146652272b108d36d95db76e14f36309e5ccbce1f6e037d6faacb/hls-p/ingest_6711_360p/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sctv.png" group-title="Lokal", SCTV Usee
-https://cdn14jtedge.useetv.com/joss/15/sctv/chunklist_w181557514_b1344100_sleng.m3u8?enc=Ft-l7HRADQSo_Gn-gRTIVw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614444621
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png" group-title="Lokal", Trans7
-https://cdn14jtedge.useetv.com/joss/15/trans7/chunklist_w581103596_b1344100_sleng.m3u8?enc=K3yERdZ0EokRIZTuslUbtQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614444622
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png" group-title="Lokal", TransTV
-https://cdn14jtedge.useetv.com/joss/15/transtv/chunklist_w1282582107_b1344100_sleng.m3u8?enc=GTpwhWUbzMon8lwVu7v2vA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614444622
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="Lokal", ANTV
-https://gratismkctv.net/oxygen.m3u8?channel=antv
-
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="Lokal", TVOne
-https://gratismkctv.net/oxygen.m3u8?channel=tvone
-
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jitv.png" group-title="Lokal", JITV
 https://cdn14jtedge.useetv.com/joss/14/jitv/chunklist_w1139580379_b684100_sleng.m3u8?enc=G2B78J6HI7pw1AfNN5nxzw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614444617
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="Lokal", Kompas TV
