@@ -179,3 +179,359 @@ http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="arirang" tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="FTA",ARIRANG 2
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+
+
+#EXTINF:-1 group-title="英语频道",Bloomberg
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="英语频道",CBS News
+P2p://147.135.39.171:9906/5eea255d000cf269e837815842dd5862.ts
+#EXTINF:-1 group-title="英语频道",CBS News (备)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="英语频道",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="英语频道",CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="英语频道",CNBC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501
+#EXTINF:-1 group-title="英语频道",CNN International SD
+http://218.202.220.2:5000/nn_live.ts?id=CNN
+#EXTINF:-1 group-title="英语频道",CNN International
+P2p://147.135.39.171:9906/5efc0848000602b02e1607f71bf1770b.ts
+#EXTINF:-1 group-title="英语频道",CNN US
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="英语频道",CPAC Canada
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1//Assets_1607262207060/Layer3_master.m3u8
+#EXTINF:-1 group-title="英语频道",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="英语频道",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="英语频道",DW
+https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="英语频道",DW
+P2p://147.135.39.171:9906/5efb85a6000027022c17bdb0796926ff.ts
+#EXTINF:-1 group-title="英语频道",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="英语频道",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="英语频道",Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="英语频道",Fox News(备)
+P2p://147.135.39.171:9906/5eec88f8000c8d8ff18c96b064502b37.ts
+#EXTINF:-1 group-title="英语频道",Fox News HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734?checkedby:iptvcat.com
+#EXTINF:-1 group-title="英语频道",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 group-title="英语频道",MSNBC SD
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="英语频道",MSNBC HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
+#EXTINF:-1 group-title="英语频道",NBC News
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="英语频道",NBC News(备1)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 group-title="英语频道",NBC News (备2)
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/index.m3u8
+#EXTINF:-1 group-title="英语频道",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8#http://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8
+#EXTINF:-1 group-title="英语频道",N 24(Japanese)
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 group-title="英语频道",NHK English
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="英语频道",Reuters TV
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="英语频道",Sky News Extra1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="英语频道",Sky News Extra2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="英语频道",Sky News Extra3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="英语频道",TV 5
+https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="英语频道",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="英语频道",Telesur(English)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 group-title="英语频道",Telesur(Spanish)
+http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="英语体育",Bein Extra
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="英语体育",Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="英语体育",ESPN University
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="英语体育",Fox Sports 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="英语体育",Fox Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="英语体育",Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="英语体育",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="英语体育",Motorcyclist
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+#EXTINF:-1 group-title="英语体育",NBA
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="英语体育",NBA(备)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:-1 group-title="英语体育",Racing Vic
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="英语体育",Tennis 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="英语体育",Tennis 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 group-title="英语体育",World of Free Sports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 group-title="英语人文",Asian Food Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="英语人文",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="英语人文",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="英语人文",Country Music
+https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
+#EXTINF:-1 group-title="英语人文",Discovery Channel
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="英语人文",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 group-title="英语人文",Nat Geo Wild
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="英语人文",Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="英语人文",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="英语人文",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 group-title="英语人文",TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="港星轮播",周星驰
+http://kuqq.tk/00/huya.php?id=11342412
+#EXTINF:-1 group-title="港星轮播",林正英
+http://kuqq.tk/00/huya.php?id=11342421
+#EXTINF:-1 group-title="港星轮播",成龙
+http://kuqq.tk/00/huya.php?id=11342386
+#EXTINF:-1 group-title="港星轮播",李连杰
+http://kuqq.tk/00/huya.php?id=11342390
+#EXTINF:-1 group-title="港星轮播",吴京
+http://kuqq.tk/00/huya.php?id=11602045
+#EXTINF:-1 group-title="港星轮播",刘德华
+http://kuqq.tk/00/huya.php?id=11342424
+#EXTINF:-1 group-title="港星轮播",五福星
+http://kuqq.tk/00/huya.php?id=11282233
+#EXTINF:-1 group-title="港星轮播",甄子丹
+http://kuqq.tk/00/huya.php?id=11352935
+#EXTINF:-1 group-title="港星轮播",周润发
+http://kuqq.tk/00/huya.php?id=11342387
+#EXTINF:-1 group-title="港星轮播",沈腾
+http://kuqq.tk/00/huya.php?id=11601968
+#EXTINF:-1 group-title="港星轮播",洪金宝
+http://kuqq.tk/00/huya.php?id=11342427
+#EXTINF:-1 group-title="港星轮播",徐峥
+http://kuqq.tk/00/huya.php?id=11602043
+#EXTINF:-1 group-title="港星轮播",赌片
+http://kuqq.tk/00/huya.php?id=11342399
+#EXTINF:-1 group-title="港星轮播",黑帮
+http://kuqq.tk/00/huya.php?id=11336719
+#EXTINF:-1 group-title="其他轮播",卧底警匪
+http://kuqq.tk/00/huya.php?id=11352886
+#EXTINF:-1 group-title="其他轮播",变形金刚
+http://kuqq.tk/00/huya.php?id=11342433
+#EXTINF:-1 group-title="其他轮播",盗墓系列
+http://kuqq.tk/00/huya.php?id=11352913
+#EXTINF:-1 group-title="其他轮播",灾难电影
+http://kuqq.tk/00/huya.php?id=11352871
+#EXTINF:-1 group-title="其他轮播",终结者电影
+http://kuqq.tk/00/huya.php?id=11352979
+#EXTINF:-1 group-title="其他轮播",徐峥
+http://kuqq.tk/00/huya.php?id=11602043
+#EXTINF:-1 group-title="其他轮播",漫威
+http://kuqq.tk/00/huya.php?id=11602075
+#EXTINF:-1 group-title="其他轮播",刘德华
+http://kuqq.tk/00/huya.php?id=11342424
+#EXTINF:-1 group-title="其他轮播",韩国犯罪动作
+http://kuqq.tk/00/huya.php?id=11601956
+#EXTINF:-1 group-title="其他轮播",速度与激情
+http://kuqq.tk/00/huya.php?id=11352949
+#EXTINF:-1 group-title="其他轮播",香港恐怖
+http://kuqq.tk/00/huya.php?id=11601960
+#EXTINF:-1 group-title="其他轮播",异性怪物
+http://kuqq.tk/00/huya.php?id=11352938
+#EXTINF:-1 group-title="其他轮播",历年贺岁档
+http://kuqq.tk/00/huya.php?id=11601986
+#EXTINF:-1 group-title="其他轮播",杰森斯坦森
+http://kuqq.tk/00/huya.php?id=11336572
+#EXTINF:-1 group-title="其他轮播",港产搞笑
+http://kuqq.tk/00/huya.php?id=11342423
+#EXTINF:-1 group-title="其他轮播",金庸电影
+http://kuqq.tk/00/huya.php?id=11352897
+#EXTINF:-1 group-title="其他轮播",热血高校
+http://kuqq.tk/00/huya.php?id=11342402
+#EXTINF:-1 group-title="其他轮播",许氏电影
+http://kuqq.tk/00/huya.php?id=11602033
+#EXTINF:-1 group-title="其他轮播",第一滴血
+http://kuqq.tk/00/huya.php?id=11352934
+#EXTINF:-1 group-title="其他轮播",小丑电影
+http://kuqq.tk/00/huya.php?id=11352941
+#EXTINF:-1 group-title="其他轮播",外国电影
+http://kuqq.tk/00/huya.php?id=11342428
+#EXTINF:-1 group-title="其他轮播",游戏改编电影
+http://kuqq.tk/00/huya.php?id=10871113
+#EXTINF:-1 group-title="其他轮播",奥斯卡提名
+http://kuqq.tk/00/huya.php?id=11352969
+#EXTINF:-1 group-title="其他轮播",黑夜传说
+http://kuqq.tk/00/huya.php?id=11352881
+#EXTINF:-1 group-title="其他轮播",开心鬼
+http://kuqq.tk/00/huya.php?id=11342388
+#EXTINF:-1 group-title="其他轮播",香港霸王花
+http://kuqq.tk/00/huya.php?id=11352909
+#EXTINF:-1 group-title="其他轮播",爱情公寓
+http://kuqq.tk/00/huya.php?id=11336726
+#EXTINF:-1 group-title="其他轮播",武林外传
+http://kuqq.tk/00/huya.php?id=11352915
+#EXTINF:-1 group-title="其他轮播",插翅难逃
+http://kuqq.tk/00/huya.php?id=11352940
+#EXTINF:-1 group-title="其他轮播",神探狄仁杰
+http://kuqq.tk/00/huya.php?id=11352958
+#EXTINF:-1 group-title="其他轮播",家有儿女
+http://kuqq.tk/00/huya.php?id=11352872
+#EXTINF:-1 group-title="其他轮播",少年包青天
+http://kuqq.tk/00/huya.php?id=11342393
+#EXTINF:-1 group-title="其他轮播",好先生
+http://kuqq.tk/00/huya.php?id=11352973
+#EXTINF:-1 group-title="其他轮播",火蓝刀锋
+http://kuqq.tk/00/huya.php?id=11336592
+#EXTINF:-1 group-title="其他轮播",知否知否
+http://kuqq.tk/00/huya.php?id=11602068
+#EXTINF:-1 group-title="其他轮播",士兵突击
+http://kuqq.tk/00/huya.php?id=11342430
+#EXTINF:-1 group-title="其他轮播",搞笑一家人
+http://kuqq.tk/00/huya.php?id=11601978
+#EXTINF:-1 group-title="其他轮播",少帅
+http://kuqq.tk/00/huya.php?id=11342414
+#EXTINF:-1 group-title="其他轮播",天龙八部胡军
+http://kuqq.tk/00/huya.php?id=11602036
+#EXTINF:-1 group-title="其他轮播",新倚天屠龙记
+http://kuqq.tk/00/huya.php?id=11602067
+#EXTINF:-1 group-title="其他轮播",韩剧剧场
+http://kuqq.tk/00/huya.php?id=11352904
+#EXTINF:-1 group-title="其他轮播",欢乐颂
+http://kuqq.tk/00/huya.php?id=11601979
+#EXTINF:-1 group-title="其他轮播",法证先锋
+http://kuqq.tk/00/huya.php?id=11342398
+#EXTINF:-1 group-title="其他轮播",神话
+http://kuqq.tk/00/huya.php?id=11602074
+#EXTINF:-1 group-title="其他轮播",医馆笑传
+http://kuqq.tk/00/huya.php?id=11352891
+#EXTINF:-1 group-title="其他轮播",情满四合院
+http://kuqq.tk/00/huya.php?id=11342426
+#EXTINF:-1 group-title="其他轮播",父母爱情
+http://kuqq.tk/00/huya.php?id=11352920
+#EXTINF:-1 group-title="其他轮播",毛骗
+http://kuqq.tk/00/huya.php?id=11352912
+#EXTINF:-1 group-title="其他轮播",都挺好
+http://kuqq.tk/00/huya.php?id=11602084
+#EXTINF:-1 group-title="其他轮播",老友记
+http://kuqq.tk/00/huya.php?id=11352945
+#EXTINF:-1 group-title="其他轮播",香蜜沉沉
+http://kuqq.tk/00/huya.php?id=11352892
+#EXTINF:-1 group-title="其他轮播",我的团长我的团
+http://kuqq.tk/00/huya.php?id=11342416
+#EXTINF:-1 group-title="其他轮播",大宋提刑官
+http://kuqq.tk/00/huya.php?id=11279251
+#EXTINF:-1 group-title="其他轮播",爱死亡机器人
+http://kuqq.tk/00/huya.php?id=11601964
+#EXTINF:-1 group-title="其他轮播",魔幻手机
+http://kuqq.tk/00/huya.php?id=11602065
+#EXTINF:-1 group-title="其他轮播",行尸走肉
+http://kuqq.tk/00/huya.php?id=11352963
+#EXTINF:-1 group-title="其他轮播",旋风十一人
+http://kuqq.tk/00/huya.php?id=11342400
+#EXTINF:-1 group-title="其他轮播",猪八戒系列
+http://kuqq.tk/00/huya.php?id=11352877
+#EXTINF:-1 group-title="其他轮播",王子变青蛙
+http://kuqq.tk/00/huya.php?id=11352960
+#EXTINF:-1 group-title="其他轮播",我的前半生
+http://kuqq.tk/00/huya.php?id=11601971
+#EXTINF:-1 group-title="其他轮播",新神雕侠侣古天乐
+http://kuqq.tk/00/huya.php?id=11352878
+#EXTINF:-1 group-title="其他轮播",我们结婚吧
+http://kuqq.tk/00/huya.php?id=11342394
+#EXTINF:-1 group-title="其他轮播",极品家丁
+http://kuqq.tk/00/huya.php?id=11352884
+#EXTINF:-1 group-title="其他轮播",血色浪漫
+http://kuqq.tk/00/huya.php?id=11602055
+#EXTINF:-1 group-title="其他轮播",恐怖短片
+http://kuqq.tk/00/huya.php?id=17098448
+#EXTINF:-1 group-title="其他轮播",小虎牙
+http://kuqq.tk/00/huya.php?id=17904870
+#EXTINF:-1 group-title="其他轮播",阿斗归来了
+http://kuqq.tk/00/huya.php?id=adgll
+#EXTINF:-1 group-title="其他轮播",陈翔六点半
+http://kuqq.tk/00/huya.php?id=cxldb
+#EXTINF:-1 group-title="其他轮播",扁豆看电影
+http://kuqq.tk/00/huya.php?id=bdcmovie
+#EXTINF:-1 group-title="其他轮播",科幻五分钟
+http://kuqq.tk/00/huya.php?id=kh1905
+#EXTINF:-1 group-title="其他轮播",恐怖地带
+http://kuqq.tk/00/huya.php?id=16741179
+#EXTINF:-1 group-title="其他轮播",吾聊电影
+http://kuqq.tk/00/huya.php?id=16424416
+#EXTINF:-1 group-title="其他轮播",Big笑工坊
+http://kuqq.tk/00/huya.php?id=14776702
+#EXTINF:-1 group-title="其他轮播",斌哥搬砖
+http://kuqq.tk/00/huya.php?id=18632116
+#EXTINF:-1 group-title="其他轮播",电影最TOP
+http://kuqq.tk/00/huya.php?id=topfilm
+#EXTINF:-1 group-title="其他轮播",亮哥讲电影
+http://kuqq.tk/00/huya.php?id=16144175
+#EXTINF:-1 group-title="其他轮播",李小哇僵尸
+http://kuqq.tk/00/huya.php?id=18441722
+#EXTINF:-1 group-title="其他轮播",小丑讲电影
+http://kuqq.tk/00/huya.php?id=16857432
+#EXTINF:-1 group-title="其他轮播",好尸
+http://kuqq.tk/00/huya.php?id=15981239
+#EXTINF:-1 group-title="其他轮播",越哥说电影
+http://kuqq.tk/00/huya.php?id=yuegemovie
+#EXTINF:-1 group-title="其他轮播",俗哥说电影
+http://kuqq.tk/00/huya.php?id=15452736
+#EXTINF:-1 group-title="其他轮播",小川侃电影
+http://kuqq.tk/00/huya.php?id=15870999
+#EXTINF:-1 group-title="其他轮播",熊妹撩电影
+http://kuqq.tk/00/huya.php?id=xiongmei666
+#EXTINF:-1 group-title="其他轮播",来呀官人
+http://kuqq.tk/00/huya.php?id=15763558
+#EXTINF:-1 group-title="其他轮播",鲁班爱看剧
+http://kuqq.tk/00/huya.php?id=17139168
+#EXTINF:-1 group-title="其他轮播",噔噔悬疑社
+http://kuqq.tk/00/huya.php?id=17445539
+#EXTINF:-1 group-title="其他轮播",娘子说电影
+http://kuqq.tk/00/huya.php?id=18964209
+#EXTINF:-1 group-title="其他轮播",Low君
+http://kuqq.tk/00/huya.php?id=17147314
+#EXTINF:-1 group-title="其他轮播",影视新起点
+http://kuqq.tk/00/huya.php?id=16102581
+#EXTINF:-1 group-title="其他轮播",嫦娥撩电影
+http://kuqq.tk/00/huya.php?id=18201106
+#EXTINF:-1 group-title="其他轮播",猎影派
+http://kuqq.tk/00/huya.php?id=16099968
+#EXTINF:-1 group-title="其他轮播",方头人讲故事
+http://kuqq.tk/00/huya.php?id=16604314
+#EXTINF:-1 group-title="其他轮播",比尔电影
+http://kuqq.tk/00/huya.php?id=17227870
+#EXTINF:-1 group-title="其他轮播",正经的瓜皮酱
+http://kuqq.tk/00/huya.php?id=19810875
+#EXTINF:-1 group-title="其他轮播",沫漾电影
+http://kuqq.tk/00/huya.php?id=15556391
+#EXTINF:-1 group-title="其他轮播",春寒一夜
+http://kuqq.tk/00/huya.php?id=20702189
+#EXTINF:-1 group-title="其他频道",凤凰资讯
+http://stream.guihet.com/t/ifeng2.php?id=1
+#EXTINF:-1 group-title="其他频道",凤凰卫视
+http://stream.guihet.com/t/ifeng2.php?id=2
+#EXTINF:-1 group-title="其他频道",翡翠台
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 group-title="其他频道",明珠台
+http://m.567it.com/Pearl.m3u8
+#EXTINF:-1 group-title="其他频道",开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="其他频道",星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
