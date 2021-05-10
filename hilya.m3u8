@@ -1,26 +1,35 @@
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NHK
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", KOMPAS TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=874
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", RCTI
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", RCTI +
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", MNC
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", MNC +
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", GTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", GTV +
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", INDOSIAR
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", METRO TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=777
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", TRANSTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=733
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", TRANS 7
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_720p/index.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=734
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", TVRI
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
@@ -29,11 +38,105 @@ http://210.210.155.35/qwr9ew/s/s107/01.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", RTV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=1561
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", SCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", NET
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", CELESTIAL MOVIES
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="https://static.mncnow.id/images/channel/326f22ff/88fd_r32.jpg",Berita Satu [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+
+#EXTINF:-1 group-title="Movies",And Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Movies",And Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Movies",ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.mncnow.id/images/channel/18dd6b78/6200_r32.jpg",Warner Tv [THAI]
+http://203.154.243.89:11205/
+#EXTINF:-1 group-title="FOX Group" tvg-logo="https://static.mncnow.id/images/channel/2eafe95c/1fe1_r32.jpg",Fox Movies [THAI]
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png",HBO [HEVC INDO]
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png",HBO [INDO]
+https://dl.dropboxusercontent.com/s/8vsk5mh6hhab2x2/01_trinity_hbo.m3u8?dl=0
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_hits.png",HBO Hits [INDO]
+https://dl.dropbox.com/s/l1fft14x0qsdib5/03_UT_hbohits.m3u8?dl=0
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_hits.png",HBO Hits [INDO]
+http://www.tettv.diradjafm.com/m3u/HBOhits-TETtv.m3u8
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_family.png",HBO Family [INDO]
+https://dl.dropbox.com/s/3na4bb4pnb2f2jt/04_UT_hbofamily.m3u8?dl=0
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_family.png",HBO Family [INDO]
+http://www.tettv.diradjafm.com/m3u/HBOFamily-TETtv.m3u8
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/cinemax.png",Cinemax [INDO]
+https://dl.dropboxusercontent.com/s/moxz30rjrnfmt0c/06_UT_cinemax.m3u8?dl=0
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/cinemax.png",Cinemax [INDO]
+http://www.tettv.diradjafm.com/m3u/CINEMAX-TETtv.m3u8
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_signature.png",HBO Signature [INDO]
+https://dl.dropbox.com/s/58c12tswe2q2ot9/05_UT_hbosignature.m3u8?dl=0
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://x1.cdn.broiptv.com/img/hbo_signature.png",HBO Signature [MULTISUB]
+http://www.tettv.diradjafm.com/m3u/HBOsig-TETtv.m3u8
+#EXTINF:-1 group-title="Knowledge",Tv Edukasi [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="https://static.mncnow.id/images/channel/326f22ff/88fd_r32.jpg",Berita Satu [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="https://static.mncnow.id/images/channel/74fcf81e/df5c_r32.jpg",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
+#EXTINF:-1 group-title="Berita" tvg-logo="https://static.mncnow.id/images/channel/326f22ff/88fd_r32.jpg",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 group-title="Malaysia",Boo [HEVC]
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",TV1 [HEVC]
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",TV2 [HEVC]
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",TV3 [HEVC]
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Citra [HEVC]
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",SetOne [HEVC]
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Naura [HEVC]
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Awani [HEVC]
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Oasis [HEVC]
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Arena [HEVC]
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Prima [HEVC]
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia",Bernama [HEVC]
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Hip Hip Horee [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7052_720p/index.m3u8
+#EXTINF:-1 group-title="Kids",Horee [VIDIO]
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6397_720p/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Astro Ceria [HEVC]
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Aniplus [INDO]
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.mncnow.id/images/channel/f12e4f61/d66d_r32.jpg",Animax [DENS TV]
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.mncnow.id/images/channel/adbf9dd3/8ba6_r32.jpg",Boomerang [RUSIA]
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.mncnow.id/images/channel/adbf9dd3/8ba6_r32.jpg",Boomerang [RUSIA]
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="PIKOTV" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png",Maleo
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="PIKOTV" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-250px-1-234x300.png",NU Channel
+http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="PIKOTV" tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RRI-net-250px.png",RRI Net
+http://stream1.ninmedia.tv:1935/rrinet/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="PIKOTV" tvg-logo="127.0.0.1",ZQ SPORT
+
+
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", ATV
