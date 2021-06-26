@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TEST
-https://streaming.useetv.com/dass/133/natgeo_dash/manifest_wuseetv.mpd?enc=XTf7AeLTn3J6dhRrAkA9RQ&exp=1624686335&encp=eCWYacob0jg6zdC2ljb8Gg&expp=1624695035&uid=N2VlZmU3NmU1ZDhmNWM5MzZjNDcwMDhmMWI0NjMyZGU=
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", TRANSTV
+https://m3u-editor.com/serve/fffc6520-d427-11eb-b990-0b9e00d7d7dc/322927499
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Lokal", NHK
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/tv/raw/master/Hilya.png" group-title="Hilya", KOMPAS TV
